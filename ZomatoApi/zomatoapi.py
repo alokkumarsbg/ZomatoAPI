@@ -6,3 +6,4 @@ import re
 
 class zomatoapi:
     """ Class to be initiated to use the script """
+    test
